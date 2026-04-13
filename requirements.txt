@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+joblib
+pandas
+scikit-learn
+requests
+imbalanced-learn
+pylint
+radon
+flask
+gitpython
